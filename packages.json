@@ -1,6 +1,18 @@
 [
     {
+        "package": "mathpix",
+        "url": "https://github.com/jonocarroll/mathpix"
+    },
+    {
+        "package": "ggeasy",
+        "url": "https://github.com/jonocarroll/ggeasy"
+    },
+    {
         "package": "ntfy",
         "url": "https://github.com/jonocarroll/ntfy"
+    },
+    {
+        "package": "ggghost",
+        "url": "https://github.com/jonocarroll/ggghost"
     }
 ]
